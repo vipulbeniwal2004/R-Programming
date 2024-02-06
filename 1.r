@@ -1,2 +1,2 @@
-a<-4
+a<-"hello world"
 print(a)
